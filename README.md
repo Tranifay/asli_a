@@ -1,7 +1,7 @@
 [
   {
-    "لینک عکس": "https://s20.picofile.com/file/8443313592/PicsArt_11_05_02_54_22.jpg",
-    "لینک سایت": "https://google.com/",
+    "لینک عکس": "https://image.footballi.app/1000/news/images/20211104/16360158951481.jpeg",
+    "لینک سایت": "https://sepehr.irib.ir/frame/t/tv3?eitaafly",
     "وضعیت": "ورود آزاد",
     "پیغام": "این برنامه هنوز شروع نشده\nلطفا وقتی ساعت برنامه شروع شد وارد شوید"
   }
